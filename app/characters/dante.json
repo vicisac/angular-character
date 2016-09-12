@@ -1,0 +1,22 @@
+{
+    "additionalFeatures": "Basically invincible",
+    "availability": [
+        "PS2",
+        "PS3",
+        "PS4"
+    ],
+    "description": "Introducing Dante\u2122 from Devil May Cry\u2122. Son of Sparda, can do everything you can think of. ",
+    "games": [
+        "Devil May Cry",
+        "Devil May Cry 2",
+        "Devil May Cry 3",
+        "Devil May Cry 4"
+    ],
+    "id": "dante",
+    "images": [
+        "img/characters/dante.jpg",
+        "img/characters/dante2.jpg",
+        "img/characters/dante3.jpg"
+        ],
+    "name": "Dante"
+}

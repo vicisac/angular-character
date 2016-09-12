@@ -1,0 +1,35 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+      <p>
+        Search:
+        <input ng-model="$ctrl.query" />
+      </p>
+
+      <p>
+        Sort by:
+        <select ng-model="$ctrl.orderProp">
+          <option value="name">Alphabetical</option>
+          <option value="age">Newest</option>
+        </select>
+      </p>
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="characters">
+        <li ng-repeat="character in $ctrl.characters | filter:$ctrl.query | orderBy:$ctrl.orderProp" class="thumbnail char-list-item">
+          <a href="#/characters/{{character.id}}" class="thumb">
+            <img ng-src="{{character.imageUrl}}" alt="{{character.name}}" />
+          </a>
+          <a href="#!/characters/{{character.id}}">{{character.name}}</a>
+          <p>{{character.weapon}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>

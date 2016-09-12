@@ -1,0 +1,23 @@
+{
+    "additionalFeatures": "Does some excellent CQC (Close Quarters Combat)",
+    "availability": [
+        "PS1",
+        "PS2",
+        "PS3",
+        "PS4"
+    ],
+    "description": "Introducing Solid Snake\u2122 from the Metal Gear Solid\u2122 series. Cloned Son of Big Boss, the legendary soldier.",
+    "games": [
+        "Metal Gear Solid",
+        "Metal Gear Solid 2",
+        "Metal Gear Solid 3",
+        "Metal Gear Solid 4"
+    ],
+    "id": "dante",
+    "images": [
+        "img/characters/snake.jpg",
+        "img/characters/snake2.jpg",
+        "img/characters/snake3.jpg"
+    ],
+    "name": "Solid Snake"
+}

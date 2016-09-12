@@ -1,0 +1,20 @@
+{
+    "additionalFeatures": "Can destroy planets and galaxies if he wants to. But he doesn't.",
+    "availability": [
+        "DVD",
+        "Blu Ray"
+    ],
+    "description": "Introducing Goku\u2122 from Dragon Ball\u2122. The original Super Saiyan original. ",
+    "games": [
+        "Dragon Ball",
+        "Dragon Ball Z",
+        "Dragon Ball Super"
+    ],
+    "id": "dante",
+    "images": [
+        "img/characters/goku.jpg",
+        "img/characters/goku2.png",
+        "img/characters/goku3.jpg"
+    ],
+    "name": "Goku"
+}

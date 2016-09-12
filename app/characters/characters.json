@@ -1,0 +1,23 @@
+[
+    {
+        "age": 0, 
+        "id": "goku",
+        "imageUrl": "img/characters/goku.jpg",
+        "name": "Goku",
+        "weapon": "Himself is a weapon"
+    }, 
+    {
+        "age": 1, 
+        "id": "solid-snake", 
+        "imageUrl": "img/characters/snake.jpg",
+        "name": "Solid Snake", 
+        "weapon": "M4"
+    }, 
+    {
+        "age": 2, 
+        "id": "dante", 
+        "imageUrl": "img/characters/dante.jpg",
+        "name": "Dante", 
+        "weapon": "Alastor"
+    }    
+]
